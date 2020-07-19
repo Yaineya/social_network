@@ -1,0 +1,28 @@
+.nav {
+  grid-area: n;
+  background-color: lightgreen;
+  padding: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.item a.activeLink {
+  color: rgb(28, 114, 28);
+}
+
+.item a {
+  text-decoration: none;
+  color: white;
+}
+
+.item a:hover {
+  color: rgb(106, 190, 132);
+}
+
+.item {
+  color: rgb(16, 75, 14);
+}
+.item img {
+  width: 90%;
+  border-radius: 5px;
+  margin: 8px;
+}

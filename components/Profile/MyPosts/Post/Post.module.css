@@ -1,0 +1,14 @@
+.item {
+  color: rgb(42, 138, 175);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.posts {
+  color: rgb(235, 20, 31);
+}
+.item img {
+  /* padding: 10px; */
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+}
